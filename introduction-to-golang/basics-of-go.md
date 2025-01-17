@@ -29,4 +29,4 @@ hello world
 
 ```
 
-The go program always starts with package main and the func main&#x20;
+The go program always starts with package main and the func main is an entry point for any go program.
